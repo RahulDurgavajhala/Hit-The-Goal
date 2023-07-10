@@ -22,7 +22,7 @@ function load_img(){
 			top:holy_y,
 			left:hole_x
 		})
-		canvas.add(hole.obj)
+		canvas.add(hole_obj)
 	})
 	new_image();
 }
